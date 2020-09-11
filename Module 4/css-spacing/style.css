@@ -1,0 +1,100 @@
+body {
+    font-family: 18px;
+    font-family: "Lato", sans-serif;
+  }
+  
+  html,
+  body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    width: 100%;
+    text-transform: uppercase;
+    background: #2e354f;
+    margin: 0;
+    color: white;
+  }
+  
+  .section-title {
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    padding-bottom: 0.4em;
+  }
+  
+  .underlined {
+    color: #ef5839;
+  }
+  
+  .btn {
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+    background: #ef5839;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    color: #2e354f;
+    background: #d4b44c;
+  }
+  
+  /* Practice */
+  
+  a {
+    color: orange;
+  }
+  
+  a:hover {
+    color: greenyellow;
+  }
+  
+  .title-text {
+    text-align: center;
+    padding: 0.5em;
+  }
+  
+  .container {
+    text-align: center;
+    width: 50%;
+    margin: 100px auto;
+  }
+  
+  .btn {
+    padding: 1em;
+  }        
+  
+  /* Scrimba solution 
+  
+  body {
+    text-align: center;
+  }
+  
+  h1 {
+    padding: 1em;
+  }
+  
+  .container {
+    width: 550px;
+    margin: 100px auto;
+  
+  }
+  
+  .btn {
+  
+    padding: 1em;
+    margin: 2em;
+  }
+  
+  .section-title {
+    font:40px;ß
+    border-bottom: 2px solid black;
+    padding-bottom: 0.4em;
+  
+  }
+  
+  */
+  
