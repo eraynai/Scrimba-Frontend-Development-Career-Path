@@ -28,3 +28,31 @@ html, body {
     cursor: pointer;
 }
 */
+
+#modal {
+    background-color: white;
+    padding: 20px;
+    height: 200px;
+    margin: 0 auto;
+    max-width: 600px;
+    position: relative;
+    top: 30%;
+}
+
+/*Scrimba Solution
+
+Same as my solution
+*/
+
+#overlay {
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    position: absolute;
+}
+
